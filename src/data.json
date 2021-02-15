@@ -1,0 +1,60 @@
+{
+    "activeCars": [
+        {
+            "carNumber": "A777AA",
+            "region": "56",
+            "carModel": "Mazda 5",
+            "problem": "Повреждение переднего правого колеса",
+            "userName": "Иванов Федор Иванович",
+            "userPhone": "+79276985587",
+            "isCompleted": false
+        },
+        {
+            "carNumber": "M727AO",
+            "region": "63",
+            "carModel": "Lada Vesta",
+            "problem": "Повреждение заднего правого колеса",
+            "userName": "Иванова Ирина Ивановна",
+            "userPhone": "+79276985575",
+            "isCompleted": false
+        },
+        {
+            "carNumber": "Ч722ВA",
+            "region": "63",
+            "carModel": "Land Rover",
+            "problem": "Повреждение лобового стекла",
+            "userName": "Смирнов Юрий Александрович",
+            "userPhone": "+79276987187",
+            "isCompleted": false
+        }
+    ],
+    "doneCars": [
+        {
+            "carNumber": "П521ДТ",
+            "region": "63",
+            "carModel": "Mazda 6",
+            "problem": "Повреждение переднего левого колеса",
+            "userName": "Смирнова Юлия Олеговна",
+            "userPhone": "+79276984577",
+            "isCompleted": true
+        },
+        {
+            "carNumber": "У954ДЛ",
+            "region": "56",
+            "carModel": "Ford Focus",
+            "problem": "Разбито боковое стекло",
+            "userName": "Солнцева Михалина Викторовна",
+            "userPhone": "+79276945587",
+            "isCompleted": true
+        },
+        {
+            "carNumber": "З457ЛК",
+            "region": "63",
+            "carModel": "Ford Fiesta",
+            "problem": "Поврежденна задняя правая дверь",
+            "userName": "Петров Михаил Петрович",
+            "userPhone": "+79276996587",
+            "isCompleted": true
+        }
+    ]
+}
